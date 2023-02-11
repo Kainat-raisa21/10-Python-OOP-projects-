@@ -1,2 +1,1 @@
-# 12-python-projects-in-7-days-challenge
-In the last week of December 2022, i had challenged myself with the "12 simple Python projects within 7 days" challenge. I finished all of the 12 projects in 6 days. Here i am going to share my simple project codes.
+# I have taken a challenge to complete 10 unique Python OOP projects with in 28th Feb 2023. These projects will help me to learn more about and dive deep into the world of OOP. I'll be uploading all of the projects here.
