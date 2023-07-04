@@ -1,1 +1,1 @@
-# I have taken a challenge to complete 10 unique Python OOP projects with in 28th Feb 2023. These projects will help me to learn more about and dive deep into the world of OOP. I'll be uploading all of the projects here.
+# I have taken a challenge to complete 10 unique Python OOP projects with in july 2023. These projects will help me to learn more about and dive deep into the world of OOP. I'll be uploading all of the projects here.
